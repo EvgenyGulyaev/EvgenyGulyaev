@@ -11,6 +11,5 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  ![](https://visitor-badge.glitch.me/badge?page_id=EvgenyGulyaev.EvgenyGulyaev)
-
 </div>
+ ![](https://visitor-badge.glitch.me/badge?page_id=EvgenyGulyaev.EvgenyGulyaev)
