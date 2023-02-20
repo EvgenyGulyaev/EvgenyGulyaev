@@ -14,4 +14,4 @@
   </a>
 </div>
 <br />
-[![GitHub EvgenyGulyaev](https://img.shields.io/github/followers/:EvgenyGulyaev)?label=Follow)]](https://img.shields.io/github/followers/EvgenyGulyaev?color=green&style=flat-square)
+![GitHub followers](https://img.shields.io/github/followers/EvgenyGulyaev?style=flat-square)
