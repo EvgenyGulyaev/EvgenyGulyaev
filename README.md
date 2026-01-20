@@ -18,7 +18,7 @@
   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"></code> and building architecture of application
 
-- 💬 Ask me about anything [here](https://github.com/EvgenyGulyaev/EvgenyGulyaev/issues)
+- 💬 Ask me about anything [here](https://t.me/Shadow_Rhymist)
   
     
   <p id="stack-lang" align="left" width="50%">
