@@ -1,48 +1,57 @@
+<div align="center">
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+# Hi, I'm Evgeny Gulyaev 👋
+
+### Backend / Full-stack Engineer
+
+I build backend services, integrations, developer tools, and user-facing products with **Go**, **TypeScript**, and **Rust**.
+
+[Telegram](https://t.me/Shadow_Rhymist) · [Х5 Digital](https://www.x5.ru/) · [Repositories](https://github.com/EvgenyGulyaev?tab=repositories)
+
 </div>
-<div id="badges" align="center">
-  <img  align="center" alt="GitHub followers" src="https://img.shields.io/github/followers/EvgenyGulyaev?style=flat-square">
-  <img align="center" alt="GitHub User's stars" src="https://img.shields.io/github/stars/EvgenyGulyaev?style=flat-square">
-</div
 
-<br />
+## About me
 
-**About me**
+- Full-stack Engineer at [Vprok](https://www.vprok.ru/)
+- I enjoy turning product ideas into maintainable services and practical tools
+- My current focus is backend development, system integrations, and application architecture
+- I also build native desktop apps, VS Code extensions, and automation tools
 
-- 💼 FullStack Engineer at [Vprok](https://www.vprok.ru/)
+## Featured projects
 
-- ❤️ I love writing  on 
-  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-plain.svg"></code>
-  <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"></code> and building architecture of application
+### [🏙️ 3D Maps Generator](https://github.com/EvgenyGulyaev/geo3d)
 
-- 💬 Ask me about anything [here](https://t.me/Shadow_Rhymist)
-  
-    
-  <p id="stack-lang" align="left" width="50%">
-    <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-plain.svg"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-    <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/laravel/laravel-plain.svg"></code>
-  </p>
-  
- ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EvgenyGulyaev&theme=dark&background=000000)](https://git.io/streak-stats)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenyGulyaev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+A Go backend that generates city areas as **glTF** and **OBJ** 3D models using real building footprints, roads, and terrain data.
 
-  
+`Go` · `OpenStreetMap` · `REST API` · `GitHub Actions` · `3D / glTF`
 
+### [🎵 Ya Music RC](https://github.com/EvgenyGulyaev/ya-music-rc)
 
+A lightweight native Yandex Music player for macOS, Windows, and Linux. Built without Electron or an embedded browser, with media-key support and local token storage.
 
+`Rust` · `Cross-platform desktop` · `OAuth` · `Native media controls`
 
+### [🌿 Git IDE](https://github.com/EvgenyGulyaev/git-ide)
 
+A VS Code extension that brings branches, commit history, diffs, blame, pull, push, and stash operations into one IDE-style interface.
 
+`TypeScript` · `VS Code API` · `Git` · `Developer tooling`
+
+### [🏠 Alice Speaker Service](https://github.com/EvgenyGulyaev/alice-speaker-service)
+
+A Go service for integrating multiple accounts with the official Yandex Smart Home API, synchronizing devices and scenarios, and exposing an internal dashboard API.
+
+`Go` · `REST API` · `OAuth` · `Yandex Smart Home` · `System integration`
+
+## Tech stack
+
+**Languages:** Go, TypeScript, JavaScript, Rust, PHP, Python  
+**Backend:** REST APIs, Node.js, MySQL, service integrations  
+**Frontend:** Vue, React  
+**Engineering:** application architecture, Git, CI/CD, API design
+
+## Let's talk
+
+Feel free to contact me if you want to discuss backend development, integrations, architecture, or developer tools.
+
+💬 [Message me on Telegram](https://t.me/Shadow_Rhymist)
