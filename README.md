@@ -12,7 +12,7 @@ I build backend services, integrations, developer tools, and user-facing product
 
 ## About me
 
-- Full-stack Engineer at [Vprok](https://www.vprok.ru/)
+- Full-stack Engineer at [Х5 Digital](https://www.x5.ru/)
 - I enjoy turning product ideas into maintainable services and practical tools
 - My current focus is backend development, system integrations, and application architecture
 - I also build native desktop apps, VS Code extensions, and automation tools
